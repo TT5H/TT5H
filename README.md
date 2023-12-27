@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Project Management**
 
-- 👯 I’m looking to collaborate on **Android Appliations**
+- 👯 I’m looking to collaborate on **Android Applications**
 
 <p align="left">
 </p>
